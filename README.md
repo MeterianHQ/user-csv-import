@@ -21,3 +21,16 @@ Example:
 John Doe,jon.doe@meterian.uk,Viewer,UK
 Kate Middleton,kate@meterian.uk,Administrator,UK
 ```
+
+To add a user in multiple teams, this must be specified in multiple lines of the csv
+
+Example:
+```
+John Doe,jon.doe@meterian.uk,Viewer,UK
+John Doe,jon.doe@meterian.uk,Administrator,USA
+```
+
+
+## More info
+
+For more information read the documentation on [how to manage teams](https://docs.meterian.io/guide-managing-teams-and-members)
